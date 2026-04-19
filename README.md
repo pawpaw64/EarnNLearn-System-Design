@@ -1,12 +1,12 @@
 # Earn-N-Learn: Campus Marketplace Platform — System Design Document
 
 **Project:** Earn-N-Learn  
-**Document Type:** System Design Document (Academic / Production-Oriented)  
+**Document Type:** System Design Document 
 **Institution:** United International University — Department of CSE  
 **Course:** CSE 3412 — System Analysis and Design Laboratory  
 **Group:** Game of Threads (Group 5, Section D)  
 **Authors:** Tabassum Sumaiya · Jarin Tabassum · Md. Hasibul Hossain · Abu Hurayra Mahbe · Ashraful Islam Tanzil  
-**Date:** April 2026  
+
 
 
 This repository contains the **system design resources** for the EarnNLearn project, including design prototypes and documentation.
