@@ -23,7 +23,6 @@ You can view or download the Figma design file from the link below:
 
 'SRS Document.pdf' - describes the system’s overall purpose, scope, and functional/non-functional requirements.  
 
-'System_design.md' - describes the system’s overall purpose, scope, and functional/non-functional requirements.  
 
 
 ## 🧰 Tools & Technologies
